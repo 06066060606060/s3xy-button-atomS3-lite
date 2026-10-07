@@ -48,9 +48,9 @@ No Adafruit NeoPixel library is required when using a recent Arduino-ESP32 core 
 1. Install Arduino IDE.
 2. Install the **ESP32 by Espressif Systems** board package using Boards Manager.
 3. Select the AtomS3 Lite / ESP32-S3 board supported by your installed ESP32 package. If `M5Stack-AtomS3` is available, use it.
-4. Open `s3xy_virtual_button_atomS3.ino`.
+4. Open `s3xy-virtual-button-atomS3.ino`.
 5. Keep these three files in the same sketch folder:
-   - `s3xy_virtual_button_atomS3.ino`
+   - `s3xy-virtual-button-atomS3.ino`
    - `S3XYButton.cpp`
    - `S3XYButton.h`
 6. Select the correct USB port.
