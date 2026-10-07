@@ -1,4 +1,4 @@
-# S3XY Virtual Button - M5Stack AtomS3 Lite / Arduino IDE
+# S3XY Button - M5Stack AtomS3 Lite / Arduino IDE
 
 This version is adapted for an **M5Stack AtomS3 Lite** and Arduino IDE.
 
